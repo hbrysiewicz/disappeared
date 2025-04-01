@@ -3,15 +3,13 @@
 # Getting Started 
 
 This project was created using:
-* NVM
-* PNPM
-* React
-* Direnv
-* Vite
-* Tailwind
+* [NVM](https://github.com/nvm-sh/nvm) - `brew install nvm`
+* [PNPM](https://pnpm.io/installation)
+* [React](https://react.dev/learn)
+* [Direnv](https://direnv.net/) - `brew install direnv`
+* [Vite](https://vite.dev/guide/)
+* [TailwindCSS](https://tailwindcss.com/)
 
 # To Do
-- [ ] Rulesets to protect main
 - [ ] Vitest test suite setup
-- [ ] Static content (first)
 - [ ] Add contentful or firebase
