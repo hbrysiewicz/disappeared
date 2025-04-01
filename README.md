@@ -10,6 +10,14 @@ This project was created using:
 * [Vite](https://vite.dev/guide/)
 * [TailwindCSS](https://tailwindcss.com/)
 
+## development
+
+`pnpm start`
+
+# Deployment
+
+This application is automatically deployed using [Netlify](https://www.netlify.com/) when a new commit to `main` happens.
+
 # To Do
 - [ ] Vitest test suite setup
 - [ ] Add contentful or firebase
