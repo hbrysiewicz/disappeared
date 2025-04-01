@@ -1,20 +1,15 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
+import Card from './Card.tsx'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
+      <h1 className="bg-sky-100">Disappeared</h1>
+      <h2 className="text-red-900">A collection of the individuals who have gone missing since January 20, 2025</h2>
+      <div>
+        <Card />
+    </div>
     </>
   )
 }

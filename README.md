@@ -3,12 +3,15 @@
 # Getting Started 
 
 This project was created using:
+* NVM
+* PNPM
 * React
 * Direnv
 * Vite
 * Tailwind
 
 # To Do
-- [] Rulesets to protect main
-- [] Vitest suite setup
-- [] Content!
+- [ ] Rulesets to protect main
+- [ ] Vitest test suite setup
+- [ ] Static content (first)
+- [ ] Add contentful or firebase
