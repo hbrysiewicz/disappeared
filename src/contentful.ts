@@ -23,7 +23,8 @@ class ContentfulClient {
   }
 
   async getNews() {
-    return await this.client.getEntries({ content_type: 'newsArticle' });
+    const articles = await this.client.getEntries({ content_type: 'newsArticle' });
+    return articles.items.map((article) => article.fields);
   }
 }
 
