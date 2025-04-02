@@ -26,7 +26,7 @@ function App() {
   return (
     <>
       <Header />
-      <div className="pt-6 flex gap-4">
+      <div className="pt-6 flex flex-wrap gap-4 justify-center">
         { people }
       </div>
     </>
