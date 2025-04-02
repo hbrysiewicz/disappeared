@@ -23,6 +23,11 @@ function App() {
           description="The 30 year old PhD student was approached by 6 plain-clothes ICE agents on her way to dinner and kidnapped because of an op-ed piece she wrote in the school newspaper about the genocide in Palestinian by Israel"
           image="/rumeysa.png"
         />
+        <Card
+          name="Frizgeralth de Jesus Cornejo Pulgar"
+          description="Recognized in the propaganda photos released by the American Government depicting the terrible deportation of innocent men by his rose tattoo upon his neck, Frizgeralth was lawfully awaiting an immigration hearing that is still scheduled for April 10."
+          image='/frizgeralth.png'
+        />
     </div>
     </>
   )
