@@ -13,7 +13,7 @@ function About() {
         <p className="mt-2"> The U.S. government has a responsibility to protect all residents, regardless of status. Since the start of 2025, numerous individuals—documented immigrants, asylum seekers, and U.S. citizens—have vanished under troubling circumstances, some after encounters with law enforcement, immigration agencies, or other government institutions.</p>
         <p className="mt-2"> We aim to:
           <ul className="list-disc ml-4">
-            <li> Maintain a public, verifiable record of these disappearances. </li>
+            <li> Maintain a public record of these disappearances. </li>
             <li> Shed light on potential systemic failures. </li>
             <li> Advocate for government transparency and accountability. </li>
           </ul>
@@ -24,6 +24,7 @@ function About() {
 
         <h3 className="font-bold text-24 pt-6"> How You Can Help </h3>
         <p className="mt-2"> If you have information about a missing person, want to contribute research, or support our cause, reach out. Every piece of information helps bring someone home. </p>
+        <p className="pt-6"> Get in touch disappearedinfo at gmail dot com </p>
       </div>
     </>
   )
