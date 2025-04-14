@@ -24,3 +24,9 @@ This application is automatically deployed using [Netlify](https://www.netlify.c
 
 # To Do
 - Vitest test suite setup
+
+# Get Involved
+Please send people or news articles you want to include to disappearedinfo@gmail.com.
+
+Content is maintained with Contentful.
+Application is deployed with Netlify.
